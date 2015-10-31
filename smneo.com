@@ -25,12 +25,12 @@
 	</div>
 <div id="md" style="display: none;">
 <!-- markdown -->
-
+this github blog
 <!-- markdown end -->
 </div>
 <div class="entry" id="main">
 <!-- content -->
-
+<p>this github blog</p>
 <!-- content end -->
 </div>
 <br>
